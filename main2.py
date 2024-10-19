@@ -1,4 +1,4 @@
-from s3_role import create_bucket_policy
+from s3_role import main
 
 
-create_bucket_policy()
+main()
